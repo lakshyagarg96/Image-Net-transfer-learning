@@ -6,3 +6,5 @@ Deep learning Image net model implementation (Cat V Dog)
 2. Change the working_dir file paths to train and test folder (Current source is pointing to Kaggle)
 3. Run the script
 4. Predictions are stored in the final df dataset
+
+Training/Test set zip file - https://www.kaggle.com/competitions/dogs-vs-cats/data?select=train.zip
